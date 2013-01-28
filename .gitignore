@@ -4,6 +4,7 @@
 *.o
 .deps
 .libs
+.DS_Store
 Makefile
 Sample1
 aclocal.m4
